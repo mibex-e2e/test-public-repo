@@ -8,3 +8,7 @@
 
 * Repo owner or admin
 * Other community or team contact
+
+### What do I do? ###
+
+* Ask community for help
